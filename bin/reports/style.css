@@ -1,0 +1,56 @@
+css
+Copy code
+body {
+	background-color: #1c1c1c;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding: 20px;
+	text-align: center;
+}
+
+header h1 {
+	font-size: 36px;
+	margin: 0;
+}
+
+header p {
+	font-size: 18px;
+	margin: 0;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+section h2 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+section p {
+	font-size: 18px;
+	margin: 0;
+}
+
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+footer p {
+	font-size: 16px;
+	margin: 0;
+}
