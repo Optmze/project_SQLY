@@ -9,20 +9,20 @@ Click on "**Submit**" after applying those tools to add it to your report. At th
 ## Usecase Images:
 
 ### Connection Screen:
-![cs](https://github.com/Optmze/project_SQLY/assets/95652520/471abb45-b52f-4c0c-89c2-87275cbbdda0)
+![cs](https://github.com/Optmze/project_SQLY/assets/95652520/cfb73b03-6d31-4dfc-99c8-84ed453c4f33)
 
 ## Database Selection:
-![ds](https://github.com/Optmze/project_SQLY/assets/95652520/ec5b9a2d-1fce-4f95-8c99-a6066ba516f4)
+![ds](https://github.com/Optmze/project_SQLY/assets/95652520/364c708e-bf56-4227-9603-ab3c7df4f029)
 
 ## Dashboard
-![dbd](https://github.com/Optmze/project_SQLY/assets/95652520/a4f77787-a678-4d72-b73a-8d8a6a3daedb)
+![dbd](https://github.com/Optmze/project_SQLY/assets/95652520/f21b2e90-cd62-4ab5-aa7a-5cbc7eccc8ca)
 
 ## Basic Statistical Tool
-![sqlst](https://github.com/Optmze/project_SQLY/assets/95652520/3d15a5da-0d8c-42c6-9758-b3511278cc7a)
+![sqlst](https://github.com/Optmze/project_SQLY/assets/95652520/6dde1d59-4f3e-4241-946c-bf948cc26d08)
 
 # Correlation
-![corr](https://github.com/Optmze/project_SQLY/assets/95652520/84039142-be82-4500-a0dd-2c07ca80228b)
+![corr](https://github.com/Optmze/project_SQLY/assets/95652520/31dfc0d4-5bb3-4d8e-8a56-1c3ed0608fdf)
 
 # Report Sample:
-![report](https://github.com/Optmze/project_SQLY/assets/95652520/2d440f3a-c0ce-416b-9f3d-941aa9e84372)
 
+![report](https://github.com/Optmze/project_SQLY/assets/95652520/a85dbc1b-8b3f-4608-a7f8-3c89fe2bb553)
