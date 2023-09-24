@@ -1,6 +1,6 @@
 # project_SQLY
-SQLY is a single file script to gather basic statistics and correlation of data in MySQL Databases
-on the basis of given user inputs,it can gather:
+SQLY is a single file script to gather basic statistics and correlation of data in MySQL Databases.
+On the basis of given user inputs,it can gather:
 1. **Basic Statistics**: Mean,Median,Mode,SD,Skewness/Kurtosis and Quartile Deviation
 2. **Correlation**: Correlation between chosen attributes of the table <br>
 
