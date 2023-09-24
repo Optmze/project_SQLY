@@ -410,10 +410,8 @@ class sqlyMain(tk.Tk):
 
         bstats = Button(self,text="BASIC STATISTICAL TOOLS",width=40,command=self.stats)
         bstats.place(x=5,y=110)
-        graphs = Button(self,text= "DATA VISUALIZATION TOOLS",width=40,command=self.visual)
-        graphs.place(x=5,y=130)
-        analysis = Button(self,text="ANALYSIS TERMINAL",width=40,command=self.infer)
-        analysis.place(x=5,y=150)
+        analysis = Button(self,text="CORRELATION",width=40,command=self.infer)
+        analysis.place(x=5,y=130)
 
         gen = Button(self,text = "Generate Report",command=self.generate,bg='green')
         gen.place(x=100,y=180)
