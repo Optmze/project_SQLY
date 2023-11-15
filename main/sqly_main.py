@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import statistics
 from scipy.stats import skew,kurtosis,norm
 
-#REPORT BASE GENERATION    #0 will be component name
+#REPORT BASE GENERATION   
 html_img_component = '''
         <section>
 			<h2>{0}</h2>  
