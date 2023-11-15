@@ -2,7 +2,7 @@
 SQLY is a single file script to gather basic statistics and correlation of data in MySQL Databases.
 On the basis of given user inputs,it can gather:
 1. **Basic Statistics**: Mean,Median,Mode,SD,Skewness/Kurtosis and Quartile Deviation
-2. **Correlation**: Correlation between chosen attributes of the table <br>
+2. **Correlation**: Correlation between chosen attributes of the relation <br>
 
 Click on "**Submit**" after applying those tools to add it to your report. At the end click on "**Generate Report**", which will generate an html file containing your report items.
 
