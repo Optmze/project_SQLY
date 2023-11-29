@@ -26,3 +26,5 @@ Click on "**Submit**" after applying those tools to add it to your report. At th
 # Report Sample:
 
 ![report](https://github.com/Optmze/project_SQLY/assets/95652520/a85dbc1b-8b3f-4608-a7f8-3c89fe2bb553)
+
+> **Note:** All classes and functions are placed in a single file here. Perhaps a more cleaner and better approach would be separate each class into different files, for better readability of code and understanding of the overall program flow.
